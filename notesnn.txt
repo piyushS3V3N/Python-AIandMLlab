@@ -1,0 +1,4 @@
+
+Cell Body : All the input coming from dendrites by axioms are received by a cell body and then a collective output is generated for a particular neuron set 
+Synapses : It acts like an interconnection between different neurons
+
